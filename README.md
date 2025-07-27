@@ -15,3 +15,6 @@ In the second assignment, I focused exclusively on evaluating a pre‑trained ch
    I wrote code to estimate confidence intervals around my metric estimates, giving a sense of how reliable each performance number is.
 
 ---
+
+**P.S.**
+The code files in this repository were developed as part of the AI for Medical Diagnosis course on Coursera. All work was implemented and tested using the course’s provided backend environment.
