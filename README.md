@@ -1,6 +1,6 @@
 # Model_Evaluation_And_Metrics
 
-In the second assignment, I focused exclusively on evaluating a pre‑trained chest X‑ray classifier:
+In this task, I focused exclusively on evaluating a pre‑trained chest X‑ray classifier:
 
 1. **Confusion Matrix Counts**  
    I wrote functions to compute true positives, false positives, true negatives, and false negatives from prediction probabilities and ground‑truth labels.
